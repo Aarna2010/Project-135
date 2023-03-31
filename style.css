@@ -1,0 +1,56 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.header
+{
+    width: 100%;
+    font-size: 30px;
+    font-family: monospace;
+    letter-spacing: 5px;
+    font-variant: small-caps;
+    box-shadow: 5px 5px 3px rgb(81, 79, 79);
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.note
+{
+    font-variant: normal;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: rgb(1, 75, 1);
+}
+
+label
+{
+    color:azure;
+    font-size: 23px;
+    font-family: fantasy;
+}
+
+#name
+{
+    width: 50%;
+}
+
+#start
+{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+}
+
+#status, #found
+{
+    font-size: 18px;
+    font-family:sans-serif;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 38px rgb(76, 75, 75);
+}
